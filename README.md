@@ -10,7 +10,7 @@ This repository stores our solutions for all problems in the CS519.M11 - Scienti
 
 |Order|    Member         |  ID        | Role 
 |:---:| :-----------:     | :--:       | :--: 
-|1    |    [Doanh C. Bui](https://github.com/caodoanh2001/)      |  19521366  | Leader
+|1    |    [Doanh C. Bui](https://github.com/caodoanh2001/)      |  19521366  | Member
 |2    |    [Truc Trinh](https://github.com/Trinhtruc1831/)    |  19521059  | Member
 |3    |    [Nghia H. Nguyen](https://github.com/)    |  19520178  | Member
 
